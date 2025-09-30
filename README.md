@@ -44,7 +44,7 @@ Word frequency plot: Common words like Congress, Janata, Indian
 
 Pie chart: Symbol category distribution (Animals, Objects, Tools)
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python 3.10+
 
